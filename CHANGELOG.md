@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.19](https://github.com/ridi-oss/proxy-monster/compare/server-v0.1.18...server-v0.1.19) (2026-08-14)
+
+
+### Features
+
+* **web:** list every role a query can run under, auto-discovered in the composer ([#201](https://github.com/ridi-oss/proxy-monster/issues/201)) ([b5d0280](https://github.com/ridi-oss/proxy-monster/commit/b5d02802fe2495a5ce8c403a3957a2db49f215be))
+
 ## [0.1.18](https://github.com/ridi-oss/proxy-monster/compare/server-v0.1.17...server-v0.1.18) (2026-08-14)
 
 
